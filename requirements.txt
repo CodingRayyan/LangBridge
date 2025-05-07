@@ -2,3 +2,4 @@ streamlit
 langdetect
 transformers
 torch
+sentencepiece
